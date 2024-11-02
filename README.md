@@ -29,5 +29,4 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## Author
 Hi i'am Habib 🖐
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [Habib oropo](https://www.x.com/HabibOropo)
